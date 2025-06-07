@@ -1,0 +1,9 @@
+# Import the theme
+theme: jekyll-theme-chirpy
+
+lang: en
+
+# Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
+timezone: Asia/Dhaka
+
+url: "https://nafiul-afk.github.io/skills-github-pages"
